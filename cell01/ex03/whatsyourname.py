@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 fname = input("Hey, what's your first name? : ")
 
 lname = input('And your last name?: ')

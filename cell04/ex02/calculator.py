@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import math
 fm = int(input("Give me the first number: "))
 sm = int(input("Give me the second number: "))

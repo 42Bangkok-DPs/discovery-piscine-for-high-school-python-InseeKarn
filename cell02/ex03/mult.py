@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 fn = int(input("Enter first number: "))
 sn = int(input("Enter second number; "))
 
